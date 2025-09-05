@@ -18,12 +18,12 @@ It provides authentication, user management, and APIs to support a healthcare-re
 
 healthcare-backend/
 │-- src/
-│   ├── app.js          # Entry point
-│   ├── models/         # Sequelize models
-│   ├── routes/         # Express routes
-│   ├── controllers/    # Route handlers
-│   └── middleware/     # Auth & other middlewares
-│-- .env                # Environment variables (not pushed to git)
+│ ├── app.js # Entry point
+│ ├── models/ # Sequelize models
+│ ├── routes/ # Express routes
+│ ├── controllers/ # Route handlers
+│ └── middleware/ # Auth & other middlewares
+│-- .env # Environment variables (not pushed to git)
 │-- package.json
 │-- README.md
 
